@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "braintree/braintree_php": "~3.38",
-        "dompdf/dompdf": "^0.8.0",
+        "braintree/braintree_php": "^6.9",
+        "dompdf/dompdf": "^2.0",
         "illuminate/contracts": "^9.0",
         "illuminate/database": "^9.0",
         "illuminate/http": "^9.0",
@@ -21,7 +21,7 @@
         "illuminate/support": "^9.0",
         "illuminate/view": "^9.0",
         "nesbot/carbon": "^2.0",
-        "symfony/http-kernel": "~4.0"
+        "symfony/http-kernel": "~6.1"
     },
     "require-dev": {
         "ext-json": "*",
